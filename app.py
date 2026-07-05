@@ -3,6 +3,7 @@ import logging
 import os
 import re
 import asyncio
+
 from datetime import datetime
 from fastapi import FastAPI, HTTPException, BackgroundTasks
 from pydantic import BaseModel
@@ -11,16 +12,22 @@ from typing import List, Optional
 # Core imports from your project architecture
 from groq_client import ask_llm
 from cognee_memory import CogneeMemory
-
+from fastapi.middleware.cors import CORSMiddleware
 # Configure production-ready logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
-app = FastAPI(
+app=FastAPI(
     title="AI Interview Agent API",
     version="1.0.0",
-    description="An intelligent async technical interview agent powered by Groq and Cognee."
+    description="AN intelligent asynce technical interview agent..."
 )
-
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 class InterviewAgent:
     def __init__(self, resume_text: str, memory_file: str = "memory.json"):
         self.resume = resume_text
