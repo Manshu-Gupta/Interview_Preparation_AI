@@ -150,13 +150,12 @@ class AnswerPayload(BaseModel):
 # --- GLOBAL AGENT STATE MANAGEMENT ---
 # Note: For production with multiple users, replace this global instantiation 
 # with a database lookup or key-value cache (like Redis) keyed on a user ID token.
-agent_instance: Optional[InterviewAgent] = None
+agent_instance:InterviewAgent(resume_text="Python SQL Machine Learning AI")
 
 
 @app.post("/interview/start", summary="Initialize or reset the interview with a resume")
 async def start_interview(payload: InitializationPayload):
-    global agent_instance
-    agent_instance = InterviewAgent(resume_text=payload.resume)
+    
     return {"message": "Interview session initialized successfully."}
 
 
