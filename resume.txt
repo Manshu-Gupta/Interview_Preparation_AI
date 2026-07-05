@@ -1,0 +1,69 @@
+PRASHANT SINGH BAGHEL
+B.Tech Candidate Computer Science & Engineering | Graduation: June 2028
+Phone: +91 99887 76655 | Email: prashant.singh@email.com 
+Linkedin: linkedin.com/in/prashantsingh | GitHub: github.com/psbtech
+
+PROFESSIONAL SUMMARY
+A dedicated B.Tech student with a comprehensive foundational background in Machine Learning, Deep Learning, and advanced AI systems. Possesses robust computed technical knowledge of technologies including Python, SQL, and other relevant tools. Successfully designed and executed multi-faceted applications integrating ML, DL, and Generative AI capabilities for innovative development. Proactive, detail-oriented, and committed to academic and technical excellence. Possesses strong full-stack development skills, suitable for a forward-thinking technical team.
+
+EDUCATION
+- B.Tech (Computer Science & Engineering) | OIST, Bhopal | 2024-2028 | CGPA: 8.2
+- High School (HSC) | Morition Public School, CBSE | 2023 | Score: 76%
+
+TECHNICAL SKILLS
+- Databases: MySQL, MongoDB
+- Frameworks: TensorFlow, PyTorch
+- ML/DL: Scikit-Learn, NumPy
+- Gen AI: LangChain, OpenAI API
+- Cloud: AWS, Azure
+- Web Backend: Node.js
+- Web Frontend: React, JavaScript
+- Tools: Git, Docker
+
+CERTIFICATIONS
+- AI/ML Certificate 1 | CLOUDE | 2025
+- AI/ML Certificate 2 | TCS | 2026
+- AI/ML Certificate 3 | AWS | 2026
+- AI/ML & Visualization | UnStop | 2027
+
+GEN AI & ML PROJECTS
+
+1. End-to-End AI System with Python (12 Months)
+- Integrated AI system handling model management, pipeline integration, automated learning workflows, and cloud deployment optimizations.
+- Implemented custom neural models to improve performance and information retrieval across large-scale image analysis tasks.
+- Optimized inference pipelines, significantly reducing latency and computing overhead during high-throughput workloads.
+- Enhanced overall processing pipeline precision, resulting in cleaner outputs and streamlined automated error handling.
+
+2. Distributed Sensor Network (8 Months)
+- Improved medical unit imaging processing, leveraging distributed sensor nodes to sync real-time multi-angle graphical mappings.
+- Implemented LSTM models to evaluate time-series datasets and generate structured analytical summaries.
+- Optimized distributed inference architecture to allow cross-platform edge execution with minimized parameter weight requirements.
+- Developed robust natural language interfaces to allow direct contextual queries of raw network metrics.
+
+3. AI-Powered Asset Manager (6 Months)
+- Created a natural language conversational interface integrated directly with asset tracking metrics and portfolio logs.
+- Optimized vector embedding alignment to guarantee sub-second matching across unstructured enterprise documents.
+- Built custom automated alerts utilizing localized language models for identifying asset condition anomalies.
+
+WORK EXPERIENCE
+
+Machine Learning Intern at TCS (June - Aug 2027 | 3 Months)
+- Experienced core system pipelines, creating automated scripts to extract and process unstructured image logs.
+- Implemented recurrent network layers to support predictive maintenance data workflows.
+- Optimized distributed inference modules to reduce infrastructure constraints and overhead cost distributions.
+
+Research Assistant at University Lab (Sept - Dec 2027 | 4 Months)
+- Researched distributed learning paradigms using accelerated high-performance compute clusters.
+- Automated data pipelines, reducing data ingestion bottlenecks for complex multi-modal validation suites.
+
+ACHIEVEMENTS
+- Top 100 on LeetCode platform
+- Completed 200+ specialized technical online modules
+- Key project achievement landmark in April 2025
+- Managed cross-functional technical team sprint sessions
+
+PUBLICATIONS
+- Baghel, P., & Co-author. (2027). A novel approach to LLM optimization. Journal Name.
+
+LANGUAGES
+- English, Hindi
